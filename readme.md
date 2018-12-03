@@ -6,7 +6,7 @@ Practice asynchronous JavaScript concepts discussed in the video lecture.
 
 1. Make sure all the HTML has loaded before using JavaScript
 2. Create a new project folder and connect it to a GitHub repository
-3. Create an `index.html` file and a `scripts.js` file and link the two together
+3. Create an `index.html` file and a `app.js` file and link the two together
 
 ### Async: Now and later
 
