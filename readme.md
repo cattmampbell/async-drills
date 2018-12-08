@@ -12,7 +12,7 @@ Practice asynchronous JavaScript concepts discussed in the video lecture.
 
 JavaScript programs are executed in chunks. Chunks that execute now and others that will execute later. Let’s explore that concept.
 
-1. Create a function in `scripts.js` file that will log a message to the console and return a number
+1. Create a function in `app.js` file that will log a message to the console and return a number
 2. The value returned should be stored in a global variable
 3. Create another function that will log the result of multiplying the global variable multiplied by 4
 4. Create a `setTimeout()` function that will call the second function you created after 2 seconds
